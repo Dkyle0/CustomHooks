@@ -1,6 +1,6 @@
 # Custom Hooks Documentation
 
-This document provides a brief description of custom hooks implemented in the project.
+This document provides a brief description of custom hooks.
 
 ## useArray
 
